@@ -1,0 +1,74 @@
+#center{
+    margin-left: 550px;
+}
+#photo{
+    font-size: 30px;
+}
+.radius{
+    border-radius: 20px;
+}
+.jenny{
+    font-size: 40px;
+    font-weight: 700;
+    color: white;
+}
+.black{
+   background-color: black;
+}
+nav{ 
+    background-color: black;
+}
+.dolorem{
+    font-size: 20px;
+    color: rgb(192, 188, 188);
+}
+.here{
+    background-color: #27a776;height: 60px; width: 250px;border-radius: 10px;
+    color: white;
+}
+.copy{
+    color: white;
+}
+.boot{
+    color: #27a776;
+}
+.lio{
+    font-weight: 500;
+}
+#green{
+    color: #27a776;
+    margin-right: 10px;
+}
+.margin{
+    color: aliceblue;
+    float: right;
+}
+.radius:hover{
+    transform: scale(1.1);
+    filter: brightness(0.6);
+}
+ .qw{
+    color: rgb(187, 181, 181);
+    display: inline;
+}
+@media(max-width:1000px){
+    .ok{
+        visibility: hidden;
+        margin-right: 500px;
+    }
+}
+
+@media(max-width:1000px){
+    #pp{
+        margin-left: 200px;}
+}
+.ok{
+    margin-bottom: 20px;
+}
+@media(max-width:1000px){
+    .radius{
+        margin: 10px;
+        margin-left: 95px;
+        width: 800px;
+    }
+}
